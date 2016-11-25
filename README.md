@@ -1,2 +1,4 @@
 # hello-world
-code learning
+#code learning
+#I am new one to learn python!
+#I love Python!
